@@ -1,2 +1,1 @@
-# public-geojson
-Publishing spot for geojson sharing
+# Publishing Assets
