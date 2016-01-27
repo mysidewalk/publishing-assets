@@ -1,0 +1,419 @@
+partition_order,type_id,category,dataset_name,friendly_name,full_name,system_name,normalize_with,normalize_with_id
+1,71,Economy,Household Income,"10,000 or Less","Household Income: 10,000 or Less",household-income-10000_or_less,households__total_households,476
+2,72,Economy,Household Income,"10,000 to 14,999","Household Income: 10,000 to 14,999",household-income-10000_to_14999,households__total_households,476
+3,73,Economy,Household Income,"15,000 to 24,999","Household Income: 15,000 to 24,999",household-income-15000_to_24999,households__total_households,476
+4,74,Economy,Household Income,"25,000 to 34,999","Household Income: 25,000 to 34,999",household-income-25000_to_34999,households__total_households,476
+5,75,Economy,Household Income,"35,000 to 49,999","Household Income: 35,000 to 49,999",household-income-35000_to_49999,households__total_households,476
+6,76,Economy,Household Income,"50,000 to 74,999","Household Income: 50,000 to 74,999",household-income-50000_to_74999,households__total_households,476
+7,77,Economy,Household Income,"75,000 to 99,999","Household Income: 75,000 to 99,999",household-income-75000_to_99999,households__total_households,476
+8,78,Economy,Household Income,"100,000 to 149,999","Household Income: 100,000 to 149,999",household-income-100000_to_149999,households__total_households,476
+9,79,Economy,Household Income,"150,000 to 199,999","Household Income: 150,000 to 199,999",household-income-150000_to_199999,households__total_households,476
+10,80,Economy,Household Income,"200,000 or More","Household Income: 200,000 or More",household-income-200000_or_more,households__total_households,476
+11,471,Economy,Households by Self-Employment Income,With self-employment income,Households by Self-Employment Income: With self-employment income,self_employment_income__with,households__total_households,476
+12,470,Economy,Households by Self-Employment Income,No self-employment income,Households by Self-Employment Income: No self-employment income,self_employment_income__without,households__total_households,476
+13,147,Economy,Total Households Below Poverty Level,Below Poverty Level,Total Households Below Poverty Level: Below Poverty Level,house-total-below_poverty_level,households__total_households,476
+14,148,Economy,Total Receiving Food Stamps,Receive Food Stamps,Total Receiving Food Stamps: Receive Food Stamps,house-total-receive_food_stamps,households__total_households,476
+15,226,Housing,Year Householder Moved Into Unit,2010 or Later,Year Householder Moved Into Unit: 2010 or Later,household-moved_in-2010_or_later,households__total_households,476
+16,227,Housing,Year Householder Moved Into Unit,2000 to 2009,Year Householder Moved Into Unit: 2000 to 2009,household-moved_in-2000_to_2009,households__total_households,476
+17,228,Housing,Year Householder Moved Into Unit,1990 to 1999,Year Householder Moved Into Unit: 1990 to 1999,household-moved_in-1990_to_1999,households__total_households,476
+18,229,Housing,Year Householder Moved Into Unit,1980 to 1989,Year Householder Moved Into Unit: 1980 to 1989,household-moved_in-1980_to_1989,households__total_households,476
+19,230,Housing,Year Householder Moved Into Unit,1970 to 1979,Year Householder Moved Into Unit: 1970 to 1979,household-moved_in-1970_to_1979,households__total_households,476
+20,231,Housing,Year Householder Moved Into Unit,1969 or Earlier,Year Householder Moved Into Unit: 1969 or Earlier,household-moved_in-1969_or_earlier,households__total_households,476
+21,406,Population & Demographics,Family Status,Married,Family Status: Married,family_status__married_couple                            ,households__total_households,476
+22,407,Population & Demographics,Family Status,Male - No Wife,Family Status: Male - No Wife,family_status__male_no_wife                              ,households__total_households,476
+23,408,Population & Demographics,Family Status,Female - No Husand,Family Status: Female - No Husand,family_status__female_no_husband                         ,households__total_households,476
+1,180,Housing,Building Age of Housing Units,Built 1939 or Earlier,Building Age of Housing Units: Built 1939 or Earlier,houseunit-building_age-built_1939_or_earlier,houseunit-total-total_housing_units,32
+2,179,Housing,Building Age of Housing Units,Built 1940 to 1949,Building Age of Housing Units: Built 1940 to 1949,houseunit-building_age-built_1940_to_1949,houseunit-total-total_housing_units,32
+3,178,Housing,Building Age of Housing Units,Built 1950 to 1959,Building Age of Housing Units: Built 1950 to 1959,houseunit-building_age-built_1950_to_1959,houseunit-total-total_housing_units,32
+4,177,Housing,Building Age of Housing Units,Built 1960 to 1969,Building Age of Housing Units: Built 1960 to 1969,houseunit-building_age-built_1960_to_1969,houseunit-total-total_housing_units,32
+5,176,Housing,Building Age of Housing Units,Built 1970 to 1979,Building Age of Housing Units: Built 1970 to 1979,houseunit-building_age-built_1970_to_1979,houseunit-total-total_housing_units,32
+6,175,Housing,Building Age of Housing Units,Built 1980 to 1989,Building Age of Housing Units: Built 1980 to 1989,houseunit-building_age-built_1980_to_1989,houseunit-total-total_housing_units,32
+7,174,Housing,Building Age of Housing Units,Built 1990 to 1999,Building Age of Housing Units: Built 1990 to 1999,houseunit-building_age-built_1990_to_1999,houseunit-total-total_housing_units,32
+8,173,Housing,Building Age of Housing Units,Built 2000 to 2009,Building Age of Housing Units: Built 2000 to 2009,houseunit-building_age-built_2000_to_2009,houseunit-total-total_housing_units,32
+9,172,Housing,Building Age of Housing Units,Built 2010 or Later,Building Age of Housing Units: Built 2010 or Later,houseunit-building_age-built_2010_or_later,houseunit-total-total_housing_units,32
+10,183,Housing,Gross Rent as a Percentage of Income,Less than 15,Gross Rent as a Percentage of Income: Less than 15,houseunit-grapi-less_than_15,houseunit-total-total_housing_units,32
+11,184,Housing,Gross Rent as a Percentage of Income,15 to 20,Gross Rent as a Percentage of Income: 15 to 20,houseunit-grapi-15_to_20,houseunit-total-total_housing_units,32
+12,185,Housing,Gross Rent as a Percentage of Income,20 to 25,Gross Rent as a Percentage of Income: 20 to 25,houseunit-grapi-20_to_25,houseunit-total-total_housing_units,32
+13,186,Housing,Gross Rent as a Percentage of Income,25 to 30,Gross Rent as a Percentage of Income: 25 to 30,houseunit-grapi-25_to_30,houseunit-total-total_housing_units,32
+14,187,Housing,Gross Rent as a Percentage of Income,30 to 35,Gross Rent as a Percentage of Income: 30 to 35,houseunit-grapi-30_to_35,houseunit-total-total_housing_units,32
+15,612,Housing,Gross Rent as a Percentage of Income,35 to 39,Gross Rent as a Percentage of Income: 35 to 39,houseunit-grapi-35_to_39,houseunit-total-total_housing_units,32
+16,613,Housing,Gross Rent as a Percentage of Income,40 to 49,Gross Rent as a Percentage of Income: 40 to 49,houseunit-grapi-40_to_49,houseunit-total-total_housing_units,32
+17,614,Housing,Gross Rent as a Percentage of Income,50 or More,Gross Rent as a Percentage of Income: 50 or More,houseunit-grapi-50_or_more,houseunit-total-total_housing_units,32
+18,33,Housing,Home Value,"50,000 or Less","Home Value: 50,000 or Less",houseunit-value-50000_or_less,houseunit-total-total_housing_units,32
+19,34,Housing,Home Value,"50,000 to 99,999","Home Value: 50,000 to 99,999",houseunit-value-50000_to_99999,houseunit-total-total_housing_units,32
+20,35,Housing,Home Value,"100,000 to 149,999","Home Value: 100,000 to 149,999",houseunit-value-100000_to_149999,houseunit-total-total_housing_units,32
+21,36,Housing,Home Value,"150,000 to 199,999","Home Value: 150,000 to 199,999",houseunit-value-150000_to_199999,houseunit-total-total_housing_units,32
+22,37,Housing,Home Value,"200,000 to 299,999","Home Value: 200,000 to 299,999",houseunit-value-200000_to_299999,houseunit-total-total_housing_units,32
+23,38,Housing,Home Value,"300,000 to 499,999","Home Value: 300,000 to 499,999",houseunit-value-300000_to_499999,houseunit-total-total_housing_units,32
+24,39,Housing,Home Value,"500,000 to 999,999","Home Value: 500,000 to 999,999",houseunit-value-500000_to_999999,houseunit-total-total_housing_units,32
+25,40,Housing,Home Value,"1,000,000 or More","Home Value: 1,000,000 or More",houseunit-value-1000000_or_more,houseunit-total-total_housing_units,32
+26,243,Housing,Householder Age - Owner Occupied,15 to 24,Householder Age - Owner Occupied: 15 to 24,houseunit-owner_occupied-15_to_24,houseunit-total-total_housing_units,32
+27,244,Housing,Householder Age - Owner Occupied,25 to 34,Householder Age - Owner Occupied: 25 to 34,houseunit-owner_occupied-25_to_34,houseunit-total-total_housing_units,32
+28,245,Housing,Householder Age - Owner Occupied,35 to 44,Householder Age - Owner Occupied: 35 to 44,houseunit-owner_occupied-35_to_44,houseunit-total-total_housing_units,32
+29,246,Housing,Householder Age - Owner Occupied,45 to 54,Householder Age - Owner Occupied: 45 to 54,houseunit-owner_occupied-45_to_54,houseunit-total-total_housing_units,32
+30,247,Housing,Householder Age - Owner Occupied,55 to 59,Householder Age - Owner Occupied: 55 to 59,houseunit-owner_occupied-55_to_59,houseunit-total-total_housing_units,32
+31,248,Housing,Householder Age - Owner Occupied,60 to 64,Householder Age - Owner Occupied: 60 to 64,houseunit-owner_occupied-60_to_64,houseunit-total-total_housing_units,32
+32,249,Housing,Householder Age - Owner Occupied,65 to 74,Householder Age - Owner Occupied: 65 to 74,houseunit-owner_occupied-65_to_74,houseunit-total-total_housing_units,32
+33,250,Housing,Householder Age - Owner Occupied,75 to 84,Householder Age - Owner Occupied: 75 to 84,houseunit-owner_occupied-75_to_84,houseunit-total-total_housing_units,32
+34,251,Housing,Householder Age - Owner Occupied,85 and Older,Householder Age - Owner Occupied: 85 and Older,houseunit-owner_occupied-85_and_older,houseunit-total-total_housing_units,32
+35,252,Housing,Householder Age - Renter Occupied,15 to 24,Householder Age - Renter Occupied: 15 to 24,houseunit-renter_occupied-15_to_24,houseunit-total-total_housing_units,32
+36,253,Housing,Householder Age - Renter Occupied,25 to 34,Householder Age - Renter Occupied: 25 to 34,houseunit-renter_occupied-25_to_34,houseunit-total-total_housing_units,32
+37,254,Housing,Householder Age - Renter Occupied,35 to 44,Householder Age - Renter Occupied: 35 to 44,houseunit-renter_occupied-35_to_44,houseunit-total-total_housing_units,32
+38,255,Housing,Householder Age - Renter Occupied,45 to 54,Householder Age - Renter Occupied: 45 to 54,houseunit-renter_occupied-45_to_54,houseunit-total-total_housing_units,32
+39,256,Housing,Householder Age - Renter Occupied,55 to 59,Householder Age - Renter Occupied: 55 to 59,houseunit-renter_occupied-55_to_59,houseunit-total-total_housing_units,32
+40,257,Housing,Householder Age - Renter Occupied,60 to 64,Householder Age - Renter Occupied: 60 to 64,houseunit-renter_occupied-60_to_64,houseunit-total-total_housing_units,32
+41,258,Housing,Householder Age - Renter Occupied,65 to 74,Householder Age - Renter Occupied: 65 to 74,houseunit-renter_occupied-65_to_74,houseunit-total-total_housing_units,32
+42,259,Housing,Householder Age - Renter Occupied,75 to 84,Householder Age - Renter Occupied: 75 to 84,houseunit-renter_occupied-75_to_84,houseunit-total-total_housing_units,32
+43,260,Housing,Householder Age - Renter Occupied,85 and Older,Householder Age - Renter Occupied: 85 and Older,houseunit-renter_occupied-85_and_older,houseunit-total-total_housing_units,32
+44,42,Housing,Monthly Home Rent,200 or Less,Monthly Home Rent: 200 or Less,houseunit-rent-200_or_less,houseunit-total-total_housing_units,32
+45,43,Housing,Monthly Home Rent,200 to 299,Monthly Home Rent: 200 to 299,houseunit-rent-200_to_299,houseunit-total-total_housing_units,32
+46,44,Housing,Monthly Home Rent,300 to 499,Monthly Home Rent: 300 to 499,houseunit-rent-300_to_499,houseunit-total-total_housing_units,32
+47,45,Housing,Monthly Home Rent,500 to 749,Monthly Home Rent: 500 to 749,houseunit-rent-500_to_749,houseunit-total-total_housing_units,32
+48,46,Housing,Monthly Home Rent,750 to 999,Monthly Home Rent: 750 to 999,houseunit-rent-750_to_999,houseunit-total-total_housing_units,32
+49,47,Housing,Monthly Home Rent,"1,000 to 1,499","Monthly Home Rent: 1,000 to 1,499",houseunit-rent-1000_to_1499,houseunit-total-total_housing_units,32
+50,48,Housing,Monthly Home Rent,"1,500 or More","Monthly Home Rent: 1,500 or More",houseunit-rent-1500_or_more,houseunit-total-total_housing_units,32
+51,508,Housing,Mortgage Status of Owner Occupied Housing Units,Housing Units with a Mortgage,Mortgage Status of Owner Occupied Housing Units: Housing Units with a Mortgage,mortgage-with-mortgage,houseunit-total-total_housing_units,32
+52,507,Housing,Mortgage Status of Owner Occupied Housing Units,Housing Units without a Mortgage,Mortgage Status of Owner Occupied Housing Units: Housing Units without a Mortgage,mortgage-no-mortgage,houseunit-total-total_housing_units,32
+53,51,Housing,Owner vs Renter Occupied,Renter Occupied,Owner vs Renter Occupied: Renter Occupied,houseunit-owner_vs_renter-renter_occupied,houseunit-total-total_housing_units,32
+54,189,Housing,Selected Monthly Ownership Costs as a Percentage of Income,Less than 20,Selected Monthly Ownership Costs as a Percentage of Income: Less than 20,houseunit-smocapi-less_than_20,houseunit-total-total_housing_units,32
+55,191,Housing,Selected Monthly Ownership Costs as a Percentage of Income,25 to 30,Selected Monthly Ownership Costs as a Percentage of Income: 25 to 30,houseunit-smocapi-25_to_30,houseunit-total-total_housing_units,32
+56,193,Housing,Selected Monthly Ownership Costs as a Percentage of Income,35 or More,Selected Monthly Ownership Costs as a Percentage of Income: 35 or More,houseunit-smocapi-35_or_more,houseunit-total-total_housing_units,32
+57,190,Housing,Selected Monthly Ownership Costs as a Percentage of Income,20 to 25,Selected Monthly Ownership Costs as a Percentage of Income: 20 to 25,houseunit-smocapi-20_to_25,houseunit-total-total_housing_units,32
+58,192,Housing,Selected Monthly Ownership Costs as a Percentage of Income,30 to 35,Selected Monthly Ownership Costs as a Percentage of Income: 30 to 35,houseunit-smocapi-30_to_35,houseunit-total-total_housing_units,32
+59,50,Housing,Total Owner Occupied Housing Units,Owner Occupied,Total Owner Occupied Housing Units: Owner Occupied,houseunit-owner_vs_renter-owner_occupied,houseunit-total-total_housing_units,32
+60,232,Housing,Units in Structure,1 (Detached),Units in Structure: 1 (Detached),houseunit-units_in_structure-1_unit_detached,houseunit-total-total_housing_units,32
+61,233,Housing,Units in Structure,1 (Attached),Units in Structure: 1 (Attached),houseunit-units_in_structure-1_unit_attached,houseunit-total-total_housing_units,32
+62,234,Housing,Units in Structure,2,Units in Structure: 2,houseunit-units_in_structure-2_units,houseunit-total-total_housing_units,32
+63,235,Housing,Units in Structure,3 to 4,Units in Structure: 3 to 4,houseunit-units_in_structure-3_or_4_units,houseunit-total-total_housing_units,32
+64,236,Housing,Units in Structure,5 to 9,Units in Structure: 5 to 9,houseunit-units_in_structure-5_to_9_units,houseunit-total-total_housing_units,32
+65,237,Housing,Units in Structure,10 to 19,Units in Structure: 10 to 19,houseunit-units_in_structure-10_to_19_units,houseunit-total-total_housing_units,32
+66,238,Housing,Units in Structure,20 to 49,Units in Structure: 20 to 49,houseunit-units_in_structure-20_to_49_units,houseunit-total-total_housing_units,32
+67,239,Housing,Units in Structure,50 or More,Units in Structure: 50 or More,houseunit-units_in_structure-50_units_or_more,houseunit-total-total_housing_units,32
+68,240,Housing,Units in Structure,Mobile Homes,Units in Structure: Mobile Homes,houseunit-units_in_structure-mobile_homes,houseunit-total-total_housing_units,32
+69,241,Housing,Units in Structure,"Boat, RV, Van, etc","Units in Structure: Boat, RV, Van, etc",houseunit-units_in_structure-boat_rv_van_etc,houseunit-total-total_housing_units,32
+70,154,Housing,Vacant Housing Units,Vacant Housing Unit,Vacant Housing Units: Vacant Housing Unit,houseunit-total-vacant_housing_unit,houseunit-total-total_housing_units,32
+71,84,Transportation,"Occupied Housing Units, by Vehicles Available ",None,"Occupied Housing Units, by Vehicles Available : None",houseunit-vehicles-none,houseunit-total-total_housing_units,32
+72,85,Transportation,"Occupied Housing Units, by Vehicles Available ",One,"Occupied Housing Units, by Vehicles Available : One",houseunit-vehicles-one,houseunit-total-total_housing_units,32
+73,86,Transportation,"Occupied Housing Units, by Vehicles Available ",Two,"Occupied Housing Units, by Vehicles Available : Two",houseunit-vehicles-two,houseunit-total-total_housing_units,32
+74,87,Transportation,"Occupied Housing Units, by Vehicles Available ",Three or More,"Occupied Housing Units, by Vehicles Available : Three or More",houseunit-vehicles-three_or_more,houseunit-total-total_housing_units,32
+1,656,Economy,Civilian Employment by Occupation,Management,Civilian Employment by Occupation: Management,civilian-employment-management,pop-total-total_pop,1
+2,655,Economy,Civilian Employment by Occupation,Business and Finance,Civilian Employment by Occupation: Business and Finance,civilian-employment-finance,pop-total-total_pop,1
+3,654,Economy,Civilian Employment by Occupation,Computer and Mathematical,Civilian Employment by Occupation: Computer and Mathematical,civilian-employment-computer-math,pop-total-total_pop,1
+4,653,Economy,Civilian Employment by Occupation,Architecture and Engineering,Civilian Employment by Occupation: Architecture and Engineering,civilian-employment-architecture-engineer,pop-total-total_pop,1
+5,652,Economy,Civilian Employment by Occupation,"Life, Physical and Social Science","Civilian Employment by Occupation: Life, Physical and Social Science",civilian-employment-social-science,pop-total-total_pop,1
+6,651,Economy,Civilian Employment by Occupation,Community and Social Service,Civilian Employment by Occupation: Community and Social Service,civilian-employment-social-service,pop-total-total_pop,1
+7,650,Economy,Civilian Employment by Occupation,Legal,Civilian Employment by Occupation: Legal,civilian-employment-legal,pop-total-total_pop,1
+8,649,Economy,Civilian Employment by Occupation,"Education, Training and Library","Civilian Employment by Occupation: Education, Training and Library",civilian-employment-edu-library,pop-total-total_pop,1
+9,648,Economy,Civilian Employment by Occupation,"Arts, Design, Entertainment, Sports and Media","Civilian Employment by Occupation: Arts, Design, Entertainment, Sports and Media",civilian-employment-art-entertain-sports,pop-total-total_pop,1
+10,647,Economy,Civilian Employment by Occupation,Health Diagnosis and Treating Practitioners,Civilian Employment by Occupation: Health Diagnosis and Treating Practitioners,civilian-employment-health-diagnosis,pop-total-total_pop,1
+11,646,Economy,Civilian Employment by Occupation,Health Technologist and Technicians,Civilian Employment by Occupation: Health Technologist and Technicians,civilian-employment-health-technician,pop-total-total_pop,1
+12,645,Economy,Civilian Employment by Occupation,Heathcare Support,Civilian Employment by Occupation: Heathcare Support,civilian-employment-health-support,pop-total-total_pop,1
+13,644,Economy,Civilian Employment by Occupation,Fire Fighting and Prevention,Civilian Employment by Occupation: Fire Fighting and Prevention,civilian-employment-protective-service,pop-total-total_pop,1
+14,643,Economy,Civilian Employment by Occupation,Law Enforcement,Civilian Employment by Occupation: Law Enforcement,civilian-employment-law-enforcement,pop-total-total_pop,1
+15,642,Economy,Civilian Employment by Occupation,Food Preparation and Serving,Civilian Employment by Occupation: Food Preparation and Serving,civilian-employment-food-prep,pop-total-total_pop,1
+16,641,Economy,Civilian Employment by Occupation,Building and Grounds Cleaning and Maintenance,Civilian Employment by Occupation: Building and Grounds Cleaning and Maintenance,civilian-employment-building-maintenance,pop-total-total_pop,1
+17,640,Economy,Civilian Employment by Occupation,Personal Care and Service,Civilian Employment by Occupation: Personal Care and Service,civilian-employment-personal-care,pop-total-total_pop,1
+18,639,Economy,Civilian Employment by Occupation,Sales,Civilian Employment by Occupation: Sales,civilian-employment-sales,pop-total-total_pop,1
+19,638,Economy,Civilian Employment by Occupation,Office and Administrative Support,Civilian Employment by Occupation: Office and Administrative Support,civilian-employment-office-administration,pop-total-total_pop,1
+20,637,Economy,Civilian Employment by Occupation,"Farming, Fishing and Forestry","Civilian Employment by Occupation: Farming, Fishing and Forestry",civilian-employment-farm-fish-agriculture,pop-total-total_pop,1
+21,636,Economy,Civilian Employment by Occupation,Construction and Extraction,Civilian Employment by Occupation: Construction and Extraction,civilian-employment-construction,pop-total-total_pop,1
+22,635,Economy,Civilian Employment by Occupation,"Installation, Maintenance and Repair","Civilian Employment by Occupation: Installation, Maintenance and Repair",civilian-employment-installation,pop-total-total_pop,1
+23,634,Economy,Civilian Employment by Occupation,Production,Civilian Employment by Occupation: Production,civilian-employment-production,pop-total-total_pop,1
+24,633,Economy,Civilian Employment by Occupation,Transportation,Civilian Employment by Occupation: Transportation,civilian-employment-transportation,pop-total-total_pop,1
+25,632,Economy,Civilian Employment by Occupation,Material Moving,Civilian Employment by Occupation: Material Moving,civilian-employment-material-moving,pop-total-total_pop,1
+26,54,Economy,Civilian & Military Labor,Civilian,Civilian & Military Labor: Civilian,pop-military_labor-civilian,pop-total-total_pop,1
+27,55,Economy,Civilian & Military Labor,Military,Civilian & Military Labor: Military,pop-military_labor-military,pop-total-total_pop,1
+28,58,Economy,Employment Industry,Agriculture Fishing Mining,Employment Industry: Agriculture Fishing Mining,pop-industry-agriculture_fishing_mining,pop-total-total_pop,1
+29,59,Economy,Employment Industry,Construction,Employment Industry: Construction,pop-industry-construction,pop-total-total_pop,1
+30,60,Economy,Employment Industry,Manufacturing,Employment Industry: Manufacturing,pop-industry-manufacturing,pop-total-total_pop,1
+31,61,Economy,Employment Industry,Wholesale Trade,Employment Industry: Wholesale Trade,pop-industry-wholesale_trade,pop-total-total_pop,1
+32,62,Economy,Employment Industry,Retail Trade,Employment Industry: Retail Trade,pop-industry-retail_trade,pop-total-total_pop,1
+33,63,Economy,Employment Industry,Transportation,Employment Industry: Transportation,pop-industry-transportation,pop-total-total_pop,1
+34,64,Economy,Employment Industry,Information,Employment Industry: Information,pop-industry-information,pop-total-total_pop,1
+35,65,Economy,Employment Industry,Finance And Insurance,Employment Industry: Finance And Insurance,pop-industry-finance_and_insurance,pop-total-total_pop,1
+36,66,Economy,Employment Industry,Scientific And Professional,Employment Industry: Scientific And Professional,pop-industry-scientific_and_professional,pop-total-total_pop,1
+37,67,Economy,Employment Industry,Education And Health Care,Employment Industry: Education And Health Care,pop-industry-education_and_health_care,pop-total-total_pop,1
+38,68,Economy,Employment Industry,Arts Food And Entertainment,Employment Industry: Arts Food And Entertainment,pop-industry-arts_food_and_entertainment,pop-total-total_pop,1
+39,69,Economy,Employment Industry,Public Administration,Employment Industry: Public Administration,pop-industry-public_administration,pop-total-total_pop,1
+40,70,Economy,Employment Industry,Other Services,Employment Industry: Other Services,pop-industry-other_services,pop-total-total_pop,1
+41,56,Economy,Employment Status,Employed,Employment Status: Employed,pop-civilian_employment-employed,pop-total-total_pop,1
+42,515,Economy,Income to Poverty Ratio,49% and below,Income to Poverty Ratio: 49% and below,income-poverty-ratio-49-and-below,pop-total-total_pop,1
+43,514,Economy,Income to Poverty Ratio,50 to 99%,Income to Poverty Ratio: 50 to 99%,income-poverty-ratio-50-99,pop-total-total_pop,1
+44,513,Economy,Income to Poverty Ratio,100 to 124%,Income to Poverty Ratio: 100 to 124%,income-poverty-ratio-100-124,pop-total-total_pop,1
+45,512,Economy,Income to Poverty Ratio,125 to 149%,Income to Poverty Ratio: 125 to 149%,income-poverty-ratio-125-149,pop-total-total_pop,1
+46,511,Economy,Income to Poverty Ratio,150 to 184%,Income to Poverty Ratio: 150 to 184%,income-poverty-ratio-150-184,pop-total-total_pop,1
+47,510,Economy,Income to Poverty Ratio,185 to 199%,Income to Poverty Ratio: 185 to 199%,income-poverty-ratio-185-199,pop-total-total_pop,1
+48,509,Economy,Income to Poverty Ratio,200% and over,Income to Poverty Ratio: 200% and over,income-poverty-ratio-200-and-over,pop-total-total_pop,1
+49,558,Economy,Jobs in 2013 By Industry,Accomodation and Food Services,Jobs in 2013 By Industry: Accomodation and Food Services,lodes__accomodation_food_srvcs_2013,pop-total-total_pop,1
+50,562,Economy,Jobs in 2013 By Industry,"Administrative Support, Waste Management","Jobs in 2013 By Industry: Administrative Support, Waste Management",lodes__admin_support_waste_mgmt_2013,pop-total-total_pop,1
+51,575,Economy,Jobs in 2013 By Industry,"Agri., Forestry, Fishing, Hunting","Jobs in 2013 By Industry: Agri., Forestry, Fishing, Hunting",lodes__agr_forestry_fish_hunt_2013,pop-total-total_pop,1
+52,559,Economy,Jobs in 2013 By Industry,"Arts, Entertainment and Recreation","Jobs in 2013 By Industry: Arts, Entertainment and Recreation",lodes__arts_entertainment_rec_2013,pop-total-total_pop,1
+53,572,Economy,Jobs in 2013 By Industry,Construction,Jobs in 2013 By Industry: Construction,lodes__construction_2013,pop-total-total_pop,1
+54,561,Economy,Jobs in 2013 By Industry,Educational Services,Jobs in 2013 By Industry: Educational Services,lodes__edu_services_2013,pop-total-total_pop,1
+55,566,Economy,Jobs in 2013 By Industry,Finance and Insurance,Jobs in 2013 By Industry: Finance and Insurance,lodes__finance_insurance_2013,pop-total-total_pop,1
+56,560,Economy,Jobs in 2013 By Industry,Health Care and Social Assistance,Jobs in 2013 By Industry: Health Care and Social Assistance,lodes__health_care_social_assist_2013,pop-total-total_pop,1
+57,567,Economy,Jobs in 2013 By Industry,Information,Jobs in 2013 By Industry: Information,lodes__information_2013,pop-total-total_pop,1
+58,571,Economy,Jobs in 2013 By Industry,Manufacturing,Jobs in 2013 By Industry: Manufacturing,lodes__manufacturing_2013,pop-total-total_pop,1
+59,563,Economy,Jobs in 2013 By Industry,Management,Jobs in 2013 By Industry: Management,lodes__mgmt_2013,pop-total-total_pop,1
+60,574,Economy,Jobs in 2013 By Industry,"Mining, Oil and Gas","Jobs in 2013 By Industry: Mining, Oil and Gas",lodes__mining_quarry_oil_gas_2013,pop-total-total_pop,1
+61,557,Economy,Jobs in 2013 By Industry,Other Services,Jobs in 2013 By Industry: Other Services,lodes__other_services_2013,pop-total-total_pop,1
+62,564,Economy,Jobs in 2013 By Industry,"Professional, Technology, and Science","Jobs in 2013 By Industry: Professional, Technology, and Science",lodes__prof_sci_tech_services_2013,pop-total-total_pop,1
+63,556,Economy,Jobs in 2013 By Industry,Public Administration,Jobs in 2013 By Industry: Public Administration,lodes__public_admin_2013,pop-total-total_pop,1
+64,565,Economy,Jobs in 2013 By Industry,Real Estate,Jobs in 2013 By Industry: Real Estate,lodes__real_estate_rental_leasing_2013,pop-total-total_pop,1
+65,569,Economy,Jobs in 2013 By Industry,Retail Trade,Jobs in 2013 By Industry: Retail Trade,lodes__retail_trade_2013,pop-total-total_pop,1
+66,568,Economy,Jobs in 2013 By Industry,Transportation and Warehousing,Jobs in 2013 By Industry: Transportation and Warehousing,lodes__transport_warehousing_2013,pop-total-total_pop,1
+67,573,Economy,Jobs in 2013 By Industry,Utilities,Jobs in 2013 By Industry: Utilities,lodes__utilities_2013,pop-total-total_pop,1
+68,570,Economy,Jobs in 2013 By Industry,Wholesale Trade,Jobs in 2013 By Industry: Wholesale Trade,lodes__wholesale_trade_2013,pop-total-total_pop,1
+69,576,Economy,Number of Jobs Between 2003 and 2013,2013,Number of Jobs Between 2003 and 2013: 2013,total-number-of-jobs-2013,pop-total-total_pop,1
+70,52,Economy,Participation in Labor Force,In Labor Force,Participation in Labor Force: In Labor Force,pop-labor_force-in_labor_force,pop-total-total_pop,1
+71,53,Economy,Participation in Labor Force,Not In Labor Force,Participation in Labor Force: Not In Labor Force,pop-labor_force-not_in_labor_force,pop-total-total_pop,1
+72,57,Economy,Total Number of Unemployed,Unemployed,Total Number of Unemployed: Unemployed,pop-civilian_employment-unemployed,pop-total-total_pop,1
+73,262,Economy,Total Working Population 16 and Over,Total Working Population 16 and Over,Total Working Population 16 and Over,pop-total-workers_16_and_over,pop-total-total_pop,1
+74,475,Economy,Women In Workforce With Birth In Past Year,Married and Employed,Women In Workforce With Birth In Past Year: Married and Employed,women_recent_birth_married_in_labor_force,pop-total-total_pop,1
+75,474,Economy,Women In Workforce With Birth In Past Year,Married and Unemployed,Women In Workforce With Birth In Past Year: Married and Unemployed,women_recent_birth_married_not_in_labor_force,pop-total-total_pop,1
+76,473,Economy,Women In Workforce With Birth In Past Year,Unmarried and Employed,Women In Workforce With Birth In Past Year: Unmarried and Employed,women_recent_birth_unmarried_in_labor_force,pop-total-total_pop,1
+77,472,Economy,Women In Workforce With Birth In Past Year,Unmarried and Unemployed,Women In Workforce With Birth In Past Year: Unmarried and Unemployed,women_recent_birth_unmarried_not_in_labor_force,pop-total-total_pop,1
+78,589,Economy,Worked Full Time Past Year With Income Below Poverty Level,Worked Full Time with Income Below Poverty Level,Worked Full Time Past Year With Income Below Poverty Level: Worked Full Time with Income Below Poverty Level,working-poor-total,pop-total-total_pop,1
+79,448,Education,Bachelor Degrees Received ,Communications,Bachelor Degrees Received : Communications,bachelors_degree__communications,pop-total-total_pop,1
+80,449,Education,Bachelor Degrees Received ,Visual Performing Arts,Bachelor Degrees Received : Visual Performing Arts,bachelors_degree__visual_performing_arts,pop-total-total_pop,1
+81,450,Education,Bachelor Degrees Received ,Liberal Arts and History,Bachelor Degrees Received : Liberal Arts and History,bachelors_degree__liberal_arts_history,pop-total-total_pop,1
+82,451,Education,Bachelor Degrees Received ,Literature and Language,Bachelor Degrees Received : Literature and Language,bachelors_degree__literature_language,pop-total-total_pop,1
+83,452,Education,Bachelor Degrees Received ,Education,Bachelor Degrees Received : Education,bachelors_degree__education,pop-total-total_pop,1
+84,453,Education,Bachelor Degrees Received ,Business,Bachelor Degrees Received : Business,bachelors_degree__business,pop-total-total_pop,1
+85,454,Education,Bachelor Degrees Received ,Science and Engineering,Bachelor Degrees Received : Science and Engineering,bachelors_degree__science_engineering,pop-total-total_pop,1
+86,455,Education,Bachelor Degrees Received ,Multidisciplinary,Bachelor Degrees Received : Multidisciplinary,bachelors_degree__multidisciplinary,pop-total-total_pop,1
+87,456,Education,Bachelor Degrees Received ,Engineering,Bachelor Degrees Received : Engineering,bachelors_degree__engineering,pop-total-total_pop,1
+88,457,Education,Bachelor Degrees Received ,Social Science,Bachelor Degrees Received : Social Science,bachelors_degree__social_sci,pop-total-total_pop,1
+89,458,Education,Bachelor Degrees Received ,Psychology,Bachelor Degrees Received : Psychology,bachelors_degree__psychology,pop-total-total_pop,1
+90,459,Education,Bachelor Degrees Received ,Physical and Related Science,Bachelor Degrees Received : Physical and Related Science,bachelors_degree__physical_related_sci,pop-total-total_pop,1
+91,460,Education,Bachelor Degrees Received ,Bio. Agri. and Enviro. Science,Bachelor Degrees Received : Bio. Agri. and Enviro. Science,bachelors_degree__bio_agriculture_env_sci,pop-total-total_pop,1
+92,461,Education,Bachelor Degrees Received ,Mathematics and Statistics,Bachelor Degrees Received : Mathematics and Statistics,bachelors_degree__mathematics_statistics,pop-total-total_pop,1
+93,619,Education,"College Educated, Place of Residence Over Past Year",Lived in Same House,"College Educated, Place of Residence Over Past Year: Lived in Same House",residence_past_year_college_edu__same_house,pop-total-total_pop,1
+94,618,Education,"College Educated, Place of Residence Over Past Year",Moved Within the Same County,"College Educated, Place of Residence Over Past Year: Moved Within the Same County",residence_past_year_college_edu__same_county,pop-total-total_pop,1
+95,617,Education,"College Educated, Place of Residence Over Past Year",Moved within Same State,"College Educated, Place of Residence Over Past Year: Moved within Same State",residence_past_year_college_edu__same_state,pop-total-total_pop,1
+96,616,Education,"College Educated, Place of Residence Over Past Year",Moved from Different State,"College Educated, Place of Residence Over Past Year: Moved from Different State",residence_past_year_college_edu__different_state,pop-total-total_pop,1
+97,615,Education,"College Educated, Place of Residence Over Past Year",Moved from Abroad,"College Educated, Place of Residence Over Past Year: Moved from Abroad",residence_past_year_college_edu__different_country,pop-total-total_pop,1
+98,4,Education,Educational Attainment,Less than 9th Grade,Educational Attainment: Less than 9th Grade,pop-education-less_than_9th_grade,pop-total-total_pop,1
+99,5,Education,Educational Attainment,"9th to 12th, No Diploma","Educational Attainment: 9th to 12th, No Diploma",pop-education-9th_to_12th_no_diploma,pop-total-total_pop,1
+100,6,Education,Educational Attainment,High School Degree,Educational Attainment: High School Degree,pop-education-high_school_degree,pop-total-total_pop,1
+101,7,Education,Educational Attainment,Some College No Degree,Educational Attainment: Some College No Degree,pop-education-some_college_no_degree,pop-total-total_pop,1
+102,8,Education,Educational Attainment,Associates Degree,Educational Attainment: Associates Degree,pop-education-associates_degree,pop-total-total_pop,1
+103,9,Education,Educational Attainment,Bachelors Degree,Educational Attainment: Bachelors Degree,pop-education-bachelors_degree,pop-total-total_pop,1
+104,10,Education,Educational Attainment,Graduate Degree,Educational Attainment: Graduate Degree,pop-education-graduate_degree,pop-total-total_pop,1
+105,152,Education,Enrolled In School,Enrolled In School,Enrolled In School,pop-total-enrolled_in_school,pop-total-total_pop,1
+106,409,Education,Enrollment Status,Nursery Preschool,Enrollment Status: Nursery Preschool,enrollment_status__nursery_preschool,pop-total-total_pop,1
+107,411,Education,Enrollment Status,Kindergarten,Enrollment Status: Kindergarten,enrollment_status__kindergarten,pop-total-total_pop,1
+108,413,Education,Enrollment Status,Grades 1 to 4,Enrollment Status: Grades 1 to 4,enrollment_status__grade_1_4,pop-total-total_pop,1
+109,415,Education,Enrollment Status,Grades 5 to 8,Enrollment Status: Grades 5 to 8,enrollment_status__grade_5_8,pop-total-total_pop,1
+110,417,Education,Enrollment Status,Grades 9 to 12,Enrollment Status: Grades 9 to 12,enrollment_status__grade_9_12,pop-total-total_pop,1
+111,419,Education,Enrollment Status,Undergraduate,Enrollment Status: Undergraduate,enrollment_status__undergraduate,pop-total-total_pop,1
+112,421,Education,Enrollment Status,Graduate or Professional,Enrollment Status: Graduate or Professional,enrollment_status__graduate_or_professional,pop-total-total_pop,1
+113,402,Education,Foreign Born Educational Attainment,Some College or Associates Degree,Foreign Born Educational Attainment: Some College or Associates Degree,foreign_born_education__some_college_or_associates_degree,pop-total-total_pop,1
+114,404,Education,Foreign Born Educational Attainment,Graduate Degree,Foreign Born Educational Attainment: Graduate Degree,foreign_born_education__graduate_or_professional_degree  ,pop-total-total_pop,1
+115,400,Education,Foreign Born Educational Attainment,Less than High School,Foreign Born Educational Attainment: Less than High School,foreign_born_education__less_than_highschool             ,pop-total-total_pop,1
+116,401,Education,Foreign Born Educational Attainment,High School Degree,Foreign Born Educational Attainment: High School Degree,foreign_born_education__high_school_graduate             ,pop-total-total_pop,1
+117,403,Education,Foreign Born Educational Attainment,Bachelors Degree,Foreign Born Educational Attainment: Bachelors Degree,foreign_born_education__bachelors_degree                 ,pop-total-total_pop,1
+118,584,Education,Private School Enrollment by Grade,Preschool,Private School Enrollment by Grade: Preschool,private-enrollment-preschool,pop-total-total_pop,1
+119,585,Education,Private School Enrollment by Grade,Kindergarten,Private School Enrollment by Grade: Kindergarten,private-enrollment-kindergarten,pop-total-total_pop,1
+120,586,Education,Private School Enrollment by Grade,Grades 1 to 4,Private School Enrollment by Grade: Grades 1 to 4,private-enrollment-grades-1-to-4,pop-total-total_pop,1
+121,587,Education,Private School Enrollment by Grade,Grades 5 to 8,Private School Enrollment by Grade: Grades 5 to 8,private-enrollment-grades-5-to-8,pop-total-total_pop,1
+122,588,Education,Private School Enrollment by Grade,Grades 9 to 12,Private School Enrollment by Grade: Grades 9 to 12,private-enrollment-grades-9-to-12,pop-total-total_pop,1
+123,579,Education,Public School Enrollment by Grade,Preschool,Public School Enrollment by Grade: Preschool,public-enrollment-preschool,pop-total-total_pop,1
+124,580,Education,Public School Enrollment by Grade,Kindergarten,Public School Enrollment by Grade: Kindergarten,public-enrollment-kindergarten,pop-total-total_pop,1
+125,581,Education,Public School Enrollment by Grade,Grades 1 to 4,Public School Enrollment by Grade: Grades 1 to 4,public-enrollment-grades-1-to-4,pop-total-total_pop,1
+126,582,Education,Public School Enrollment by Grade,Grades 5 to 8,Public School Enrollment by Grade: Grades 5 to 8,public-enrollment-grades-5-to-8,pop-total-total_pop,1
+127,583,Education,Public School Enrollment by Grade,Grades 9 to 12,Public School Enrollment by Grade: Grades 9 to 12,public-enrollment-grades-9-to-12,pop-total-total_pop,1
+128,225,Elections,Total Population Over 18 (Voter Age Population),Total Population Over 18,Total Population Over 18 (Voter Age Population): Total Population Over 18,pop-total-18_and_over,pop-total-total_pop,1
+129,223,Elections,Total Registered Voters,Total Registered Voters,Total Registered Voters,pop-total-registered_voters,pop-total-total_pop,1
+130,263,Elections,Voting Age Population by Gender,Male Population Over 18,Voting Age Population by Gender: Male Population Over 18,pop-18_and_over-male,pop-total-total_pop,1
+131,195,Elections,Voting Age Population by Gender,Female Population Over 18,Voting Age Population by Gender: Female Population Over 18,pop-18_and_over-female,pop-total-total_pop,1
+132,664,Health & Wellness,"Cognitive, Ambulatory and Self-Care Disabilities",Self-Care Disability,"Cognitive, Ambulatory and Self-Care Disabilities: Self-Care Disability",disability-population-self_care_difficulty_5_years_and_over,pop-total-total_pop,1
+133,665,Health & Wellness,"Cognitive, Ambulatory and Self-Care Disabilities",Ambulatory Difficulty,"Cognitive, Ambulatory and Self-Care Disabilities: Ambulatory Difficulty",disability-population-ambulatory_difficulty_5_years_and_over,pop-total-total_pop,1
+134,666,Health & Wellness,"Cognitive, Ambulatory and Self-Care Disabilities",Cognitive Difficulty,"Cognitive, Ambulatory and Self-Care Disabilities: Cognitive Difficulty",disability-population-cognitive_difficulty_5_years_and_over,pop-total-total_pop,1
+135,345,Health & Wellness,Health Insurance - Insured,With Health Insurance,Health Insurance - Insured: With Health Insurance,noninstitutionalized_insured_count,pop-total-total_pop,1
+136,347,Health & Wellness,Health Insurance - Uninsured,With No Health Insurance,Health Insurance - Uninsured: With No Health Insurance,noninstitutionalized_uninsured_count,pop-total-total_pop,1
+137,667,Health & Wellness,Hearing and Vision Disabilities ,Vision Difficulty,Hearing and Vision Disabilities : Vision Difficulty,disability-population-vision_difficulty,pop-total-total_pop,1
+138,668,Health & Wellness,Hearing and Vision Disabilities ,Hearing Difficulty,Hearing and Vision Disabilities : Hearing Difficulty,disability-population-hearing_difficulty,pop-total-total_pop,1
+139,370,Health & Wellness,Medicare Coverage of Population 65 and over,With Medicare,Medicare Coverage of Population 65 and over: With Medicare,population_65_and_over_with_medicare,pop-total-total_pop,1
+140,368,Health & Wellness,Medicare Coverage of Population 65 and over,With No Medicare,Medicare Coverage of Population 65 and over: With No Medicare,population_65_and_over_no_medicare,pop-total-total_pop,1
+141,669,Health & Wellness,Population Living with Disability,Population Living With A Disability,Population Living with Disability: Population Living With A Disability,disability-population-total_pop_living_with_disability,pop-total-total_pop,1
+142,624,Livability,Place of Residence Over Past Year,Lived in Same House,Place of Residence Over Past Year: Lived in Same House,residence_past_year__same_house,pop-total-total_pop,1
+143,623,Livability,Place of Residence Over Past Year,Moved Within the Same County,Place of Residence Over Past Year: Moved Within the Same County,residence_past_year__same_county,pop-total-total_pop,1
+144,622,Livability,Place of Residence Over Past Year,Moved within Same State,Place of Residence Over Past Year: Moved within Same State,residence_past_year__same_state,pop-total-total_pop,1
+145,621,Livability,Place of Residence Over Past Year,Moved from Different State,Place of Residence Over Past Year: Moved from Different State,residence_past_year__different_state,pop-total-total_pop,1
+146,620,Livability,Place of Residence Over Past Year,Moved from Abroad,Place of Residence Over Past Year: Moved from Abroad,residence_past_year__different_country,pop-total-total_pop,1
+147,493,Population & Demographics,"Age by Sex, Females",Under 5,"Age by Sex, Females: Under 5",female-under-5,pop-total-total_pop,1
+148,492,Population & Demographics,"Age by Sex, Females",5 to 9,"Age by Sex, Females: 5 to 9",female-5-9,pop-total-total_pop,1
+149,491,Population & Demographics,"Age by Sex, Females",10 to 14,"Age by Sex, Females: 10 to 14",female-10-14,pop-total-total_pop,1
+150,490,Population & Demographics,"Age by Sex, Females",15 to 19,"Age by Sex, Females: 15 to 19",female-15-19,pop-total-total_pop,1
+151,489,Population & Demographics,"Age by Sex, Females",20 to 24,"Age by Sex, Females: 20 to 24",female-20-24,pop-total-total_pop,1
+152,488,Population & Demographics,"Age by Sex, Females",25 to 34,"Age by Sex, Females: 25 to 34",female-25-34,pop-total-total_pop,1
+153,487,Population & Demographics,"Age by Sex, Females",35 to 44,"Age by Sex, Females: 35 to 44",female-35-44,pop-total-total_pop,1
+154,486,Population & Demographics,"Age by Sex, Females",45 to 54,"Age by Sex, Females: 45 to 54",female-45-54,pop-total-total_pop,1
+155,485,Population & Demographics,"Age by Sex, Females",55 to 59,"Age by Sex, Females: 55 to 59",female-55-59,pop-total-total_pop,1
+156,484,Population & Demographics,"Age by Sex, Females",60 to 64,"Age by Sex, Females: 60 to 64",female-60-64,pop-total-total_pop,1
+157,483,Population & Demographics,"Age by Sex, Females",65 to 74,"Age by Sex, Females: 65 to 74",female-65-74,pop-total-total_pop,1
+158,482,Population & Demographics,"Age by Sex, Females",75 to 84,"Age by Sex, Females: 75 to 84",female-75-84,pop-total-total_pop,1
+159,481,Population & Demographics,"Age by Sex, Females",85 and Over,"Age by Sex, Females: 85 and Over",female-85-over,pop-total-total_pop,1
+160,506,Population & Demographics,"Age by Sex, Males",Under 5,"Age by Sex, Males: Under 5",male-under-5,pop-total-total_pop,1
+161,505,Population & Demographics,"Age by Sex, Males",5 to 9,"Age by Sex, Males: 5 to 9",male-5-9,pop-total-total_pop,1
+162,504,Population & Demographics,"Age by Sex, Males",10 to 14,"Age by Sex, Males: 10 to 14",male-10-14,pop-total-total_pop,1
+163,503,Population & Demographics,"Age by Sex, Males",15 to 19,"Age by Sex, Males: 15 to 19",male-15-19,pop-total-total_pop,1
+164,502,Population & Demographics,"Age by Sex, Males",20 to 24,"Age by Sex, Males: 20 to 24",male-20-24,pop-total-total_pop,1
+165,501,Population & Demographics,"Age by Sex, Males",25 to 34,"Age by Sex, Males: 25 to 34",male-25-34,pop-total-total_pop,1
+166,500,Population & Demographics,"Age by Sex, Males",35 to 44,"Age by Sex, Males: 35 to 44",male-35-44,pop-total-total_pop,1
+167,499,Population & Demographics,"Age by Sex, Males",45 to 54,"Age by Sex, Males: 45 to 54",male-45-54,pop-total-total_pop,1
+168,498,Population & Demographics,"Age by Sex, Males",55 to 59,"Age by Sex, Males: 55 to 59",male-55-59,pop-total-total_pop,1
+169,497,Population & Demographics,"Age by Sex, Males",60 to 64,"Age by Sex, Males: 60 to 64",male-60-64,pop-total-total_pop,1
+170,496,Population & Demographics,"Age by Sex, Males",65 to 74,"Age by Sex, Males: 65 to 74",male-65-74,pop-total-total_pop,1
+171,495,Population & Demographics,"Age by Sex, Males",75 to 84,"Age by Sex, Males: 75 to 84",male-75-84,pop-total-total_pop,1
+172,494,Population & Demographics,"Age by Sex, Males",85 and Over,"Age by Sex, Males: 85 and Over",male-85-over,pop-total-total_pop,1
+173,12,Population & Demographics,Age Totals,5 to 9,Age Totals: 5 to 9,pop-age-5_9,pop-total-total_pop,1
+174,13,Population & Demographics,Age Totals,10 to 14,Age Totals: 10 to 14,pop-age-10_14,pop-total-total_pop,1
+175,14,Population & Demographics,Age Totals,15 to 19,Age Totals: 15 to 19,pop-age-15_19,pop-total-total_pop,1
+176,15,Population & Demographics,Age Totals,20 to 24,Age Totals: 20 to 24,pop-age-20_24,pop-total-total_pop,1
+177,16,Population & Demographics,Age Totals,25 to 34,Age Totals: 25 to 34,pop-age-25_34,pop-total-total_pop,1
+178,17,Population & Demographics,Age Totals,35 to 44,Age Totals: 35 to 44,pop-age-35_44,pop-total-total_pop,1
+179,18,Population & Demographics,Age Totals,45 to 54,Age Totals: 45 to 54,pop-age-45_54,pop-total-total_pop,1
+180,19,Population & Demographics,Age Totals,55 to 59,Age Totals: 55 to 59,pop-age-55_59,pop-total-total_pop,1
+181,20,Population & Demographics,Age Totals,60 to 64,Age Totals: 60 to 64,pop-age-60_64,pop-total-total_pop,1
+182,21,Population & Demographics,Age Totals,65 to 74,Age Totals: 65 to 74,pop-age-65_74,pop-total-total_pop,1
+183,22,Population & Demographics,Age Totals,75 to 84,Age Totals: 75 to 84,pop-age-75_84,pop-total-total_pop,1
+184,23,Population & Demographics,Age Totals,Over 85,Age Totals: Over 85,pop-age-over_85,pop-total-total_pop,1
+185,658,Population & Demographics,Civilian Population by Veteran Status,Non-Veteran,Civilian Population by Veteran Status: Non-Veteran,veteran-status-total-nonveteran,pop-total-total_pop,1
+186,659,Population & Demographics,Civilian Population by Veteran Status,Veteran,Civilian Population by Veteran Status: Veteran,veteran-status-total-veteran,pop-total-total_pop,1
+187,660,Population & Demographics,Female Population by Veteran Status,Non-Veteran,Female Population by Veteran Status: Non-Veteran,veteran-status-female-nonveteran,pop-total-total_pop,1
+188,661,Population & Demographics,Female Population by Veteran Status,Veteran,Female Population by Veteran Status: Veteran,veteran-status-female-veteran,pop-total-total_pop,1
+189,405,Population & Demographics,Foreign Born Population,Foreign Born Population,Foreign Born Population,foreign_born__count                                      ,pop-total-total_pop,1
+190,440,Population & Demographics,Foreign Born Region of Origin,Northern Europe,Foreign Born Region of Origin: Northern Europe,foreign_born__northern_europe,pop-total-total_pop,1
+191,438,Population & Demographics,Foreign Born Region of Origin,Southern Europe,Foreign Born Region of Origin: Southern Europe,foreign_born__souther_europe,pop-total-total_pop,1
+192,437,Population & Demographics,Foreign Born Region of Origin,Eastern Europe,Foreign Born Region of Origin: Eastern Europe,foreign_born__eastern_europe,pop-total-total_pop,1
+193,439,Population & Demographics,Foreign Born Region of Origin,Western Europe,Foreign Born Region of Origin: Western Europe,foreign_born__western_europe,pop-total-total_pop,1
+194,436,Population & Demographics,Foreign Born Region of Origin,Eastern Asia,Foreign Born Region of Origin: Eastern Asia,foreign_born__eastern_asia,pop-total-total_pop,1
+195,433,Population & Demographics,Foreign Born Region of Origin,Western Asia,Foreign Born Region of Origin: Western Asia,foreign_born__western_asia,pop-total-total_pop,1
+196,434,Population & Demographics,Foreign Born Region of Origin,South Eastern Asia,Foreign Born Region of Origin: South Eastern Asia,foreign_born__south_eastern_asia,pop-total-total_pop,1
+197,435,Population & Demographics,Foreign Born Region of Origin,South Central Asia,Foreign Born Region of Origin: South Central Asia,foreign_born__south_central_asia,pop-total-total_pop,1
+198,430,Population & Demographics,Foreign Born Region of Origin,Northern Africa,Foreign Born Region of Origin: Northern Africa,foreign_born__northern_africa,pop-total-total_pop,1
+199,431,Population & Demographics,Foreign Born Region of Origin,Middle Africa,Foreign Born Region of Origin: Middle Africa,foreign_born__middle_africa,pop-total-total_pop,1
+200,429,Population & Demographics,Foreign Born Region of Origin,Southern Africa,Foreign Born Region of Origin: Southern Africa,foreign_born__souther_africa,pop-total-total_pop,1
+201,432,Population & Demographics,Foreign Born Region of Origin,Eastern Africa,Foreign Born Region of Origin: Eastern Africa,foreign_born__eastern_africa,pop-total-total_pop,1
+202,428,Population & Demographics,Foreign Born Region of Origin,Western Africa,Foreign Born Region of Origin: Western Africa,foreign_born__western_africa,pop-total-total_pop,1
+203,425,Population & Demographics,Foreign Born Region of Origin,Latin America South America,Foreign Born Region of Origin: Latin America South America,foreign_born__latin_america_south_america,pop-total-total_pop,1
+204,426,Population & Demographics,Foreign Born Region of Origin,Latin America Central America,Foreign Born Region of Origin: Latin America Central America,foreign_born__latin_america_central_america,pop-total-total_pop,1
+205,427,Population & Demographics,Foreign Born Region of Origin,Latin America Caribbean,Foreign Born Region of Origin: Latin America Caribbean,foreign_born__latin_america_caribbean,pop-total-total_pop,1
+206,424,Population & Demographics,Foreign Born Region of Origin,Northern America Canada,Foreign Born Region of Origin: Northern America Canada,foreign_born__northern_america_canada,pop-total-total_pop,1
+207,423,Population & Demographics,Foreign Born Region of Origin,Northern America Other,Foreign Born Region of Origin: Northern America Other,foreign_born__northern_america_other,pop-total-total_pop,1
+208,2,Population & Demographics,Gender,Female,Gender: Female,pop-gender-total_pop_female,pop-total-total_pop,1
+209,3,Population & Demographics,Gender,Male,Gender: Male,pop-gender-total_pop_male,pop-total-total_pop,1
+210,166,Population & Demographics,Generations,Matures,Generations: Matures,pop-generation-silent_generation,pop-total-total_pop,1
+211,663,Population & Demographics,Male Population by Veteran Status,Veteran,Male Population by Veteran Status: Veteran,veteran-status-male-veteran,pop-total-total_pop,1
+212,662,Population & Demographics,Male Population by Veteran Status,Non-Veteran,Male Population by Veteran Status: Non-Veteran,veteran-status-male-nonveteran,pop-total-total_pop,1
+213,378,Population & Demographics,Marital Status,Married,Marital Status: Married,marital_status_over_15_married              ,pop-total-total_pop,1
+214,376,Population & Demographics,Marital Status,Never Married,Marital Status: Never Married,marital_status_over_15_never_married        ,pop-total-total_pop,1
+215,372,Population & Demographics,Marital Status,Divorced,Marital Status: Divorced,marital_status_over_15_divorced,pop-total-total_pop,1
+216,374,Population & Demographics,Marital Status,Widowed,Marital Status: Widowed,marital_status_over_15_widowed              ,pop-total-total_pop,1
+217,336,Population & Demographics,Period of Naturalization of Foreign Born Pop,Before 1980,Period of Naturalization of Foreign Born Pop: Before 1980,foreign_born__before_1980__count,pop-total-total_pop,1
+218,335,Population & Demographics,Period of Naturalization of Foreign Born Pop,1980 to 1984,Period of Naturalization of Foreign Born Pop: 1980 to 1984,foreign_born__1980_to_1984__count,pop-total-total_pop,1
+219,334,Population & Demographics,Period of Naturalization of Foreign Born Pop,1985 to 1989,Period of Naturalization of Foreign Born Pop: 1985 to 1989,foreign_born__1985_to_1989__count,pop-total-total_pop,1
+220,333,Population & Demographics,Period of Naturalization of Foreign Born Pop,1990 to 1994,Period of Naturalization of Foreign Born Pop: 1990 to 1994,foreign_born__1990_to_1994__count,pop-total-total_pop,1
+221,332,Population & Demographics,Period of Naturalization of Foreign Born Pop,1995 to 1999,Period of Naturalization of Foreign Born Pop: 1995 to 1999,foreign_born__1995_to_1999__count,pop-total-total_pop,1
+222,331,Population & Demographics,Period of Naturalization of Foreign Born Pop,2000 to 2004,Period of Naturalization of Foreign Born Pop: 2000 to 2004,foreign_born__2000_to_2004__count,pop-total-total_pop,1
+223,330,Population & Demographics,Period of Naturalization of Foreign Born Pop,2005 to 2009,Period of Naturalization of Foreign Born Pop: 2005 to 2009,foreign_born__2005_to_2009__count,pop-total-total_pop,1
+224,329,Population & Demographics,Period of Naturalization of Foreign Born Pop,2010 or Later,Period of Naturalization of Foreign Born Pop: 2010 or Later,foreign_born__2010_or_later__count,pop-total-total_pop,1
+225,161,Population & Demographics,Primary Language Other Than English,Primary Lang Other Than English,Primary Language Other Than English: Primary Lang Other Than English,pop-total-primary_lang_other_than_english,pop-total-total_pop,1
+226,156,Population & Demographics,Primary Language Spoken at Home,English Only,Primary Language Spoken at Home: English Only,pop-language-english_only,pop-total-total_pop,1
+227,157,Population & Demographics,Primary Language Spoken at Home,Spanish,Primary Language Spoken at Home: Spanish,pop-language-spanish,pop-total-total_pop,1
+228,158,Population & Demographics,Primary Language Spoken at Home,Other Indo-European,Primary Language Spoken at Home: Other Indo-European,pop-language-other_indo_european,pop-total-total_pop,1
+229,159,Population & Demographics,Primary Language Spoken at Home,Asian-Pacific Islander,Primary Language Spoken at Home: Asian-Pacific Islander,pop-language-asian_pacific_islander,pop-total-total_pop,1
+230,160,Population & Demographics,Primary Language Spoken at Home,Other,Primary Language Spoken at Home: Other,pop-language-other,pop-total-total_pop,1
+231,24,Population & Demographics,Race Totals,White,Race Totals: White,pop-race-white,pop-total-total_pop,1
+232,25,Population & Demographics,Race Totals,Black,Race Totals: Black,pop-race-black,pop-total-total_pop,1
+233,26,Population & Demographics,Race Totals,Hispanic,Race Totals: Hispanic,pop-race-hispanic,pop-total-total_pop,1
+234,27,Population & Demographics,Race Totals,American Indian,Race Totals: American Indian,pop-race-american_indian,pop-total-total_pop,1
+235,28,Population & Demographics,Race Totals,Asian,Race Totals: Asian,pop-race-asian,pop-total-total_pop,1
+236,29,Population & Demographics,Race Totals,Hawaiian,Race Totals: Hawaiian,pop-race-hawaiian,pop-total-total_pop,1
+237,30,Population & Demographics,Race Totals,Single Race Other,Race Totals: Single Race Other,pop-race-single_race_other,pop-total-total_pop,1
+238,31,Population & Demographics,Race Totals,Two Or More Races Other,Race Totals: Two Or More Races Other,pop-race-two_or_more_races_other,pop-total-total_pop,1
+239,194,Population & Demographics,Total Population 65 and Over,Over 65,Total Population 65 and Over: Over 65,pop-total-over_65,pop-total-total_pop,1
+240,165,Population & Demographics,Total Population of Baby Boomers,Baby Boomers,Total Population of Baby Boomers: Baby Boomers,pop-generation-baby_boomer,pop-total-total_pop,1
+241,164,Population & Demographics,Total Population of Generation X,Gen X,Total Population of Generation X: Gen X,pop-generation-generation_x,pop-total-total_pop,1
+242,162,Population & Demographics,Total Population of Generation Z,Gen Z,Total Population of Generation Z: Gen Z,pop-generation-generation_z,pop-total-total_pop,1
+243,181,Population & Demographics,Total Population of Millennials,Millennials,Total Population of Millennials: Millennials,pop-generation-millennial,pop-total-total_pop,1
+244,242,Population & Demographics,Total Population Under 18,Total Population Under 18,Total Population Under 18,pop-total-under_18,pop-total-total_pop,1
+245,11,Population & Demographics,Total Population Under 5,Under 5,Total Population Under 5: Under 5,pop-age-under_5,pop-total-total_pop,1
+246,89,Transportation,Commute Type,Drive Alone,Commute Type: Drive Alone,pop-commute-drive_alone,pop-total-total_pop,1
+247,90,Transportation,Commute Type,Drive Carpool,Commute Type: Drive Carpool,pop-commute-drive_carpool,pop-total-total_pop,1
+248,91,Transportation,Commute Type,Public Transit,Commute Type: Public Transit,pop-commute-public_transit,pop-total-total_pop,1
+249,92,Transportation,Commute Type,Walk,Commute Type: Walk,pop-commute-walk,pop-total-total_pop,1
+250,93,Transportation,Commute Type,Other Transit,Commute Type: Other Transit,pop-commute-other_transit,pop-total-total_pop,1
+251,94,Transportation,Commute Type,Work From Home,Commute Type: Work From Home,pop-commute-work_from_home,pop-total-total_pop,1
+252,88,Transportation,Total Population Commuting to Work,Total Population Commuting To Work,Total Population Commuting to Work: Total Population Commuting To Work,pop-total-total_pop_commuting_to_work,pop-total-total_pop,1
+253,590,Transportation,Travel Time to Work,Less than 5,Travel Time to Work: Less than 5,commute-time-less-than-5-min,pop-total-total_pop,1
+254,591,Transportation,Travel Time to Work,5 to 9,Travel Time to Work: 5 to 9,commute-time-5-to-9-min,pop-total-total_pop,1
+255,592,Transportation,Travel Time to Work,10 to 14,Travel Time to Work: 10 to 14,commute-time-10-to-14-min,pop-total-total_pop,1
+256,593,Transportation,Travel Time to Work,15 to 19,Travel Time to Work: 15 to 19,commute-time-15-to-19-min,pop-total-total_pop,1
+257,594,Transportation,Travel Time to Work,20 to 24,Travel Time to Work: 20 to 24,commute-time-20-to-24-min,pop-total-total_pop,1
+258,595,Transportation,Travel Time to Work,25 to 29,Travel Time to Work: 25 to 29,commute-time-25-to-29-min,pop-total-total_pop,1
+259,596,Transportation,Travel Time to Work,30 to 34,Travel Time to Work: 30 to 34,commute-time-30-to-34-min,pop-total-total_pop,1
+260,597,Transportation,Travel Time to Work,35 to 39,Travel Time to Work: 35 to 39,commute-time-35-to-39-min,pop-total-total_pop,1
+261,598,Transportation,Travel Time to Work,40 to 44,Travel Time to Work: 40 to 44,commute-time-40-to-44-min,pop-total-total_pop,1
+262,599,Transportation,Travel Time to Work,45 to 59,Travel Time to Work: 45 to 59,commute-time-45-to-59-min,pop-total-total_pop,1
+263,600,Transportation,Travel Time to Work,60 to 89,Travel Time to Work: 60 to 89,commute-time-60-to-89-min,pop-total-total_pop,1
+264,601,Transportation,Travel Time to Work,More than 90,Travel Time to Work: More than 90,commute-time-more-than-90-min,pop-total-total_pop,1
+1,476,Population & Demographics,Total Households,Total Households,Total Households,households__total_households,total-area,222
+2,32,Population & Demographics,Total Housing Units,Total Housing Units,Total Housing Units,houseunit-total-total_housing_units,total-area,222
+3,1,Population & Demographics,Total Population,Total Population,Total Population,pop-total-total_pop,total-area,222
+1,384,Economy,Employment Access Index,Employment Access Index,Employment Access Index,lai__employment_access_index,,
+2,221,Economy,Income Inequality (Gini Index),Income Inequality (Gini Index),Income Inequality (Gini Index),household-total-gini,,
+3,383,Economy,Local Job Density,Local Job Density,Local Job Density,lai__local_job_density,,
+4,382,Economy,Local Retail Job Density,Local Retail Job Density,Local Retail Job Density,lai__local_retail_job_density,,
+5,380,Economy,Median Age of Workers - Female,Female,Median Age of Workers - Female: Female,population-median_age_of_workers-female,,
+6,379,Economy,Median Age of Workers - Male,Male,Median Age of Workers - Male: Male,population-median_age_of_workers-male,,
+7,363,Economy,Median Earnings - Female,Female Median Earnings,Median Earnings - Female: Female Median Earnings,population_over_16_median_earnings_female,,
+8,364,Economy,Median Earnings - Male,Male Median Earnings,Median Earnings - Male: Male Median Earnings,population_over_16_median_earnings_male,,
+9,365,Economy,Median Earnings - Total,Total Median Earnings,Median Earnings - Total: Total Median Earnings,population_over_16_median_earnings,,
+10,81,Economy,Median Household Income,Median Household Income,Median Household Income,household-total-median_household_income,,
+11,465,Economy,Median Income - Ages 24 and Under,Under 25,Median Income - Ages 24 and Under: Under 25,median_income__householder_under25,,
+12,464,Economy,Median Income - Ages 25 to 44,25 to 44,Median Income - Ages 25 to 44: 25 to 44,median_income__householder_25_44,,
+13,463,Economy,Median Income - Ages 45 to 64,45 to 64,Median Income - Ages 45 to 64: 45 to 64,median_income__householder_45_64,,
+14,462,Economy,Median Income - Ages 65 and Over,65 and Over,Median Income - Ages 65 and Over: 65 and Over,median_income__householder_65_and_over,,
+15,466,Economy,Median Income Birthplace - Foreign Born,Foreign Born,Median Income Birthplace - Foreign Born: Foreign Born,median_income__foreign_born,,
+16,467,Economy,Median Income Birthplace - Native Abroad,Native Born Outside of US,Median Income Birthplace - Native Abroad: Native Born Outside of US,median_income__native_born_outside_of_us,,
+17,468,Economy,Median Income Birthplace - Other State,Born In Other State,Median Income Birthplace - Other State: Born In Other State,median_income__born_in_other_state,,
+18,469,Economy,Median Income Birthplace - State of Residence,Born In State Of Residence,Median Income Birthplace - State of Residence: Born In State Of Residence,median_income__born_in_state_of_residence,,
+19,261,Economy,Per Capita Income,Per Capita Income,Per Capita Income,pop-total-per_capita_income,,
+20,578,Economy,Percent Change - Jobs 2003 to 2013,Total Number Of Jobs Change Percent,Percent Change - Jobs 2003 to 2013: Total Number Of Jobs Change Percent,lodes__total_number_of_jobs_change_percent,,
+21,381,Economy,Retail Access Index,Retail Access Index,Retail Access Index,lai__retail_access_index,,
+22,627,Education,Percent Change of Enrollment - Grades 1 to 4,Percent Change of Enrollment of Grades 1 to 4,Percent Change of Enrollment - Grades 1 to 4: Percent Change of Enrollment of Grades 1 to 4,percent_change_enrollment__acs09to14_1_4,,
+23,628,Education,Percent Change of Enrollment - Grades 5 to 8,Percent Change of Enrollment of Grades 5 to 8,Percent Change of Enrollment - Grades 5 to 8: Percent Change of Enrollment of Grades 5 to 8,percent_change_enrollment__acs09to14_5_8,,
+24,629,Education,Percent Change of Enrollment - Grades 9 to 12,Percent Change of Enrollment of Grades 9 to 12,Percent Change of Enrollment - Grades 9 to 12: Percent Change of Enrollment of Grades 9 to 12,percent_change_enrollment__acs09to14_9_12,,
+25,626,Education,Percent Change of Enrollment - Kindergarteners,Percent Change of Enrollment of Kindergarteners,Percent Change of Enrollment - Kindergarteners: Percent Change of Enrollment of Kindergarteners,percent_change_enrollment__acs09to14_kindergarten,,
+26,625,Education,Percent Change of Enrollment - Preschoolers,Percent Change of Enrollment of Preschoolers,Percent Change of Enrollment - Preschoolers: Percent Change of Enrollment of Preschoolers,percent_change_enrollment__acs09to14_preschool,,
+27,151,Education,Percent College Educated,College Graduation Rate,Percent College Educated: College Graduation Rate,pop-total-college_graduation_rate,,
+28,150,Education,Percent High School Educated,High School Graduation Rate,Percent High School Educated: High School Graduation Rate,pop-total-high_school_graduation_rate,,
+29,602,Education,School Proficiency Index,School Proficiency Index,School Proficiency Index,school-proficiency-index,,
+30,277,Elections,Party Affiliation - Democrat,Democrat Party Affiliation,Party Affiliation - Democrat: Democrat Party Affiliation,voter_reg-affiliation-percent_dem,,
+31,279,Elections,Party Affiliation - No Party,No Party Affiliation,Party Affiliation - No Party: No Party Affiliation,voter_reg-affiliation-percent_none,,
+32,280,Elections,Party Affiliation - Other Party,Other Party Affiliation,Party Affiliation - Other Party: Other Party Affiliation,voter_reg-affiliation-percent_other,,
+33,278,Elections,Party Affiliation - Republican,Republican Party Affiliation,Party Affiliation - Republican: Republican Party Affiliation,voter_reg-affiliation-percent_rep,,
+34,281,Elections,Party Affiliation - Unknown,Unknown Party Affiliation,Party Affiliation - Unknown: Unknown Party Affiliation,voter_reg-affiliation-percent_unknown,,
+35,222,Environment,Total Area (sq km),Total Area,Total Area (sq km): Total Area,total-area,,
+36,153,Housing,Homeowner Vacancy Rate,Homeowner Vacancy Rate,Homeowner Vacancy Rate,house-total-homeowner_vacancy_rate,,
+37,49,Housing,Median Home Rent,Median Home Rent,Median Home Rent,houseunit-total-median_home_rent,,
+38,41,Housing,Median Home Value,Median Home Value,Median Home Value,houseunit-total-median_home_value,,
+39,631,Housing,Percent of Income Spent on Housing,Percent of Income Spent on Housing,Percent of Income Spent on Housing,lai-ht-housing-costs,,
+40,182,Housing,Rental Vacancy Rate,Rental Vacancy Rate,Rental Vacancy Rate,houseunit-total-rental_vacancy_rate,,
+41,611,Livability,Location Affordability for Median Income Families,Location Affordability for Median Income Families,Location Affordability for Median Income Families,lai-median-income-families,,
+42,82,Population & Demographics,Average Family Size,Average Family Size,Average Family Size,household-total-average_family_size,,
+43,390,Population & Demographics,Household Density,Gross Household Density,Household Density: Gross Household Density,lai__gross_hh_density,,
+44,657,Population & Demographics,Median Age,Median Age,Median Age,median-age-total-median-age,,
+45,326,Technology,Internet - Type of Technology,Other,Internet - Type of Technology: Other,broadband-techtype-other,,
+46,323,Technology,Internet - Type of Technology,Fiber,Internet - Type of Technology: Fiber,broadband-techtype-fiber,,
+47,324,Technology,Internet - Type of Technology,Satellite,Internet - Type of Technology: Satellite,broadband-techtype-satellite,,
+48,325,Technology,Internet - Type of Technology,Wireless,Internet - Type of Technology: Wireless,broadband-techtype-wireless,,
+49,322,Technology,Internet - Type of Technology,Cable,Internet - Type of Technology: Cable,broadband-techtype-cable,,
+50,321,Technology,Internet - Type of Technology,DSL,Internet - Type of Technology: DSL,broadband-techtype-dsl,,
+51,327,Technology,Number of Internet Service Providers,Total Number of Broadband Providers,Number of Internet Service Providers: Total Number of Broadband Providers,broadband-total-number_of_providers,,
+52,95,Transportation,Commute Mean Travel Time,Commute Mean Travel Time,Commute Mean Travel Time,pop-total-commute_mean_travel_time,,
+53,386,Transportation,Median Commute Distance,Median Commute Distance,Median Commute Distance,lai__median_commute_distance,,
+54,630,Transportation,Percent of Income Spent on Transportation,Percent of Income Spent on Transportation,Percent of Income Spent on Transportation,lai-ht-transportation-costs,,
